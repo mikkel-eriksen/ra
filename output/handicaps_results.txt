@@ -1,0 +1,16 @@
+Handicaps data
+             total_values  non_null_values  unique_values
+census_year                                              
+1801               937944               86              2
+1850              1405217             6665           1830
+1860              1748226             7732           1299
+1880              1979455             8210            853
+1901              2468040            13165            878
+After standardization
+             total_values  standardized_values
+census_year                                   
+1801                   86                    0
+1850                 6665                 3548
+1860                 7732                 4935
+1880                 8210                 7186
+1901                13165                10762
